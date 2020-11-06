@@ -1,0 +1,16 @@
+D:\TestCases\CanHocaTestCase\Entity\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+D:\TestCases\CanHocaTestCase\Entity\Business\bin\Debug\netcoreapp3.1\Business.dll
+D:\TestCases\CanHocaTestCase\Entity\Business\bin\Debug\netcoreapp3.1\Business.pdb
+D:\TestCases\CanHocaTestCase\Entity\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\TestCases\CanHocaTestCase\Entity\Business\bin\Debug\netcoreapp3.1\Entity.dll
+D:\TestCases\CanHocaTestCase\Entity\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\TestCases\CanHocaTestCase\Entity\Business\bin\Debug\netcoreapp3.1\Entity.pdb
+D:\TestCases\CanHocaTestCase\Entity\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+D:\TestCases\CanHocaTestCase\Entity\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+D:\TestCases\CanHocaTestCase\Entity\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+D:\TestCases\CanHocaTestCase\Entity\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+D:\TestCases\CanHocaTestCase\Entity\Business\obj\Debug\netcoreapp3.1\Business.dll
+D:\TestCases\CanHocaTestCase\Entity\Business\obj\Debug\netcoreapp3.1\Business.pdb
+D:\TestCases\CanHocaTestCase\Entity\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+D:\TestCases\CanHocaTestCase\Entity\Business\bin\Debug\netcoreapp3.1\Core.dll
+D:\TestCases\CanHocaTestCase\Entity\Business\bin\Debug\netcoreapp3.1\Core.pdb

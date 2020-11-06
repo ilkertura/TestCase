@@ -1,0 +1,12 @@
+D:\TestCases\CanHocaTestCase\Entity\Entity\bin\Debug\netcoreapp3.1\Entity.deps.json
+D:\TestCases\CanHocaTestCase\Entity\Entity\bin\Debug\netcoreapp3.1\Entity.dll
+D:\TestCases\CanHocaTestCase\Entity\Entity\bin\Debug\netcoreapp3.1\Entity.pdb
+D:\TestCases\CanHocaTestCase\Entity\Entity\bin\Debug\netcoreapp3.1\Core.dll
+D:\TestCases\CanHocaTestCase\Entity\Entity\bin\Debug\netcoreapp3.1\Core.pdb
+D:\TestCases\CanHocaTestCase\Entity\Entity\obj\Debug\netcoreapp3.1\Entity.csprojAssemblyReference.cache
+D:\TestCases\CanHocaTestCase\Entity\Entity\obj\Debug\netcoreapp3.1\Entity.AssemblyInfoInputs.cache
+D:\TestCases\CanHocaTestCase\Entity\Entity\obj\Debug\netcoreapp3.1\Entity.AssemblyInfo.cs
+D:\TestCases\CanHocaTestCase\Entity\Entity\obj\Debug\netcoreapp3.1\Entity.csproj.CoreCompileInputs.cache
+D:\TestCases\CanHocaTestCase\Entity\Entity\obj\Debug\netcoreapp3.1\Entity.csproj.CopyComplete
+D:\TestCases\CanHocaTestCase\Entity\Entity\obj\Debug\netcoreapp3.1\Entity.dll
+D:\TestCases\CanHocaTestCase\Entity\Entity\obj\Debug\netcoreapp3.1\Entity.pdb
